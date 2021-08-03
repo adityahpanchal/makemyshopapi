@@ -1,0 +1,9 @@
+https://www.npmjs.com/package/multer
+
+https://bezkoder.com/node-js-upload-multiple-files/
+
+https://code.tutsplus.com/tutorials/file-upload-with-multer-in-node--cms-32088
+
+
+//resizer with memory storage
+https://bezkoder.com/node-js-upload-resize-multiple-images/
